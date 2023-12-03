@@ -40,7 +40,9 @@
 
 <img align="center" alt="Python" height="42" width="80" src='https://blog.t.ly/wp-content/uploads/2022/08/Google-Sheets-T.LY_.png'>
 <img align="center" alt="Python" height="auto" width="50" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png'>
-  
+<img align="center" alt="Python" height="52" width="90" src='https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png'>
+
+
 # My Status
 <div>
   <table style="margin: 0 auto;" align="center">
