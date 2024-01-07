@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong> Data Science Fundamentals and Python</strong>
+  🕑 I'm Learning: <strong> Microsoft Excel and Python</strong>
 </p>
 
 <p align="left">
