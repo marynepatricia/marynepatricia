@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🕑 I'm Learning: <strong> Microsoft Power BI</strong>
+  🕑 I'm Learning: <strong> Machine Learning</strong>
 </p>
 
 <p align="left">
