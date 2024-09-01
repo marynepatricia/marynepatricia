@@ -3,7 +3,7 @@
 <img src="https://23748075.fs1.hubspotusercontent-na1.net/hub/23748075/hubfs/Asset%202@2x.png?width=228&height=225&name=Asset%202@2x.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a 29-year-old aspiring <strong>Data Analyst</strong> currently enrolled in <strong>Data Science and Machine Learning</strong> bootcamp.
+      Hello there! I'm a 30-year-old aspiring <strong>Data Analyst</strong> currently enrolled in <strong>Data Science and Machine Learning</strong> bootcamp.
 </p>
 
 <p align="left">
