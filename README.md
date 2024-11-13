@@ -38,7 +38,7 @@
 
 <h3>Tools</h3>
 
-<img align="center" alt="Python" height="42" width="80" src='https://w7.pngwing.com/pngs/249/999/png-transparent-google-sheets-logo-and-symbol-thumbnail.png'>
+<img align="center" alt="Python" height="42" width="80" src='https://storage.googleapis.com/assets_workspace/uploads/7uffzv9dk4sn-2saPASNQaWzk3n5OvSnkAU-c912a0e13d9947bd5c831dd37283cea2-Sheets_Template5050Hero_Logo.svg'>
 <img align="center" alt="Python" height="auto" width="50" src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png'>
 <img align="center" alt="Python" height="52" width="90" src='https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Symbol.png'>
 
